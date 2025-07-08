@@ -32,6 +32,7 @@
 - [Asana](https://asana.com/) - A powerful project management tool for remote teams.
 - [RescueTime](https://www.rescuetime.com/) - A time-tracking tool that helps you understand your work habits and boost productivity.
 - [Zapier](https://zapier.com/) - Automate tasks between your favorite apps to save time and stay productive.
+- [Study Near Me](https://studynearme.com/) - A directory for finding laptop-friendly cafes and workspaces for productive remote work across the US.
 
 ## Travel Tools
 
